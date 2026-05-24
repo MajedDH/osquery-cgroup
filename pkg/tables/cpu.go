@@ -1,4 +1,4 @@
-// Copyright 2026 MajedDH
+// Copyright 2026 Majed Al-Daas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
